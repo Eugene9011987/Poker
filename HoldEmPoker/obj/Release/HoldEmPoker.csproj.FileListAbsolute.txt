@@ -1,0 +1,17 @@
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.exe.config
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.exe
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.pdb
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.Form1.resources
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.Properties.Resources.resources
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.csproj.GenerateResource.Cache
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.exe
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.exe.config
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.exe
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.exe
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Release\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.Form1.resources
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.Properties.Resources.resources
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.csproj.GenerateResource.Cache
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Release\HoldEmPoker.csprojResolveAssemblyReference.cache

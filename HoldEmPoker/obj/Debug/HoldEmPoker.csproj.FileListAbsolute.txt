@@ -1,0 +1,18 @@
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.exe.config
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.exe
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.pdb
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.csprojResolveAssemblyReference.cache
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.Form1.resources
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.Properties.Resources.resources
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.csproj.GenerateResource.Cache
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.exe
+c:\users\eugene\documents\visual studio 2015\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.exe.config
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.exe
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.exe
+D:\Projects\HoldEmPoker\HoldEmPoker\bin\Debug\HoldEmPoker.pdb
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.Form1.resources
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.Properties.Resources.resources
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.csproj.GenerateResource.Cache
+D:\Projects\HoldEmPoker\HoldEmPoker\obj\Debug\HoldEmPoker.csprojResolveAssemblyReference.cache
